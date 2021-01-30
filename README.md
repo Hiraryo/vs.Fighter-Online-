@@ -10,3 +10,9 @@
 対戦相手はCPUです。CPUを倒すまでの時間で順位を決めています。
 
 上位100人がランクインします。
+
+# :camera  Screenshot
+## タイトル画面
+![タイトル画面](https://user-images.githubusercontent.com/60394438/106357277-84b23a00-6348-11eb-93fe-1912ce394946.png)
+
+## モードセレクト画面
