@@ -13,6 +13,6 @@
 
 ## 📷 Screenshot
 ## タイトル画面
-![タイトル画面](![title](https://user-images.githubusercontent.com/60394438/123480049-c2d43100-d63c-11eb-802a-f6e6d3ad343a.gif))
+![title](https://user-images.githubusercontent.com/60394438/123480049-c2d43100-d63c-11eb-802a-f6e6d3ad343a.gif)
 
 ## モードセレクト画面
