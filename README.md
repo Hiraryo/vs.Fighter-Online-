@@ -16,3 +16,4 @@
 ![title](https://user-images.githubusercontent.com/60394438/123480049-c2d43100-d63c-11eb-802a-f6e6d3ad343a.gif)
 
 ## モードセレクト画面
+![mode_select](https://user-images.githubusercontent.com/60394438/123482609-65da7a00-d640-11eb-895f-c023a879e435.gif)
