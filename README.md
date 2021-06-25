@@ -2,7 +2,7 @@
 大学1回生の基礎プログラミング演習の自由制作課題で作ったゲーム作品です。
 
 ### vs.Fighter-オンライン-とは
- 
+
 格闘ゲームが作りたくなり、独学で作った2Dの格闘ゲームです。
 
 オンラインのランキング機能を搭載しています。
@@ -13,6 +13,6 @@
 
 ## 📷 Screenshot
 ## タイトル画面
-![タイトル画面](https://user-images.githubusercontent.com/60394438/106357277-84b23a00-6348-11eb-93fe-1912ce394946.png)
+![title](https://user-images.githubusercontent.com/60394438/123480049-c2d43100-d63c-11eb-802a-f6e6d3ad343a.gif)
 
 ## モードセレクト画面

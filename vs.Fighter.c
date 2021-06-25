@@ -59,7 +59,7 @@ int i,j,tmp,total = 100;
 int main(){
     //char *home_path = getenv("HOME");
     windowID = HgOpen(WIDTH,HIGHT);
-    int game_status = 0;    //0:タイトル、1:ゲームメイン、3:リザルト
+    int game_status = 0;    //0:タイトル画面、1:モード選択画面、2:ゲームクリア画面、3:ゲームオーバー画面、4:ゲームメイン、5:キャラ選択
     hgevent *event;
     int bgm_1 = HgSoundLoad("sound/bgm/Title bgm.mp3"); //タイトルBGM
     int bgm_2 = HgSoundLoad("sound/bgm/Stage01.mp3");   //ステージBGM(ノーマル)
@@ -866,8 +866,7 @@ int main(){
                                 case ' ':   //ゲームスタート
                                     HgSoundStop(bgm_1);
                                     game_start = 1;
-                                    game_status = 1;
-                                    //game_status = 2;
+                                    game_status = 1;    //モード選択画面へ
                                     break;
 
                                 case 'q':
